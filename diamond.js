@@ -1,3 +1,5 @@
+// https://www.codewars.com/kata/5503013e34137eeeaa001648/solutions/javascript
+
 const diamond = (n) => {
   const createDiamondLine = (n, currentOddInt) => {
     const diaString = '*'.repeat(currentOddInt);
